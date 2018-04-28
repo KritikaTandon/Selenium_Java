@@ -1,7 +1,8 @@
 package TestCases;
-import org.junit.Test;
+import org.junit.*;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
+
 
 //import Framework.*;
 import Pages.*;
